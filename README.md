@@ -28,7 +28,7 @@ Our team will review your contribution and provide feedback if necessary. Once y
 Code of Conduct
 ---------------
 
-We have a code of conduct in place to ensure a positive and inclusive community. Please read our [Code of Conduct](https://chat.openai.com/CODE_OF_CONDUCT.md) before contributing.
+We have a code of conduct in place to ensure a positive and inclusive community. Please read our [Code of Conduct](https://github.com/Sarthak_Sidhant/education/coc.md) before contributing.
 
 License
 -------
