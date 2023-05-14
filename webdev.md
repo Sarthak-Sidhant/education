@@ -243,6 +243,4 @@ Founder - [Sidhant Hyperspace](http://github.com/sarthak-sidhant/sidhant-hypersp
 Sarthak Sidhant#4374  
 my [bento](http://bento.me/sarthaksidhant) and my [github](http://github.com/sarthak-sidhant)
 
-please subscribe to my newsletter
 
-![Other Ways to Say “Thank You So Much” and “Thank You Very Much” in Writing  | Grammarly](https://contenthub-static.grammarly.com/blog/wp-content/uploads/2019/02/thank-you-437x230.jpg align="left")
